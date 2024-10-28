@@ -1,0 +1,39 @@
+.flex{
+    display: flex;
+}
+
+.itemCenter{
+    align-items: center;
+}
+
+
+.justifyCenter{
+    justify-content: center;
+}
+
+.spaceBtw{
+    justify-content: space-between;
+}
+
+.container{
+    padding: 0 10vw;
+    margin: auto;
+}
+
+
+.cap{
+    text-transform: uppercase;
+}
+
+.Sbold{
+    font-weight: bolder;
+}
+
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+button{
+    cursor: pointer;
+}
